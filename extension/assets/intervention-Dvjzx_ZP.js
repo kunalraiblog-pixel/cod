@@ -1,0 +1,1 @@
+import{d as e,f as t,i as n,o as r,u as i}from"./src-CdGSDYyu.js";import{t as a}from"./InterventionPage-BgeG2fXp.js";var o=t(e(),1),s=t(i(),1),c=r(),l=document.getElementById(`intervention-root`);l&&s.createRoot(l).render((0,c.jsx)(o.StrictMode,{children:(0,c.jsx)(n,{children:(0,c.jsx)(a,{})})}));
